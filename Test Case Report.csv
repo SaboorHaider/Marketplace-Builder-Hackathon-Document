@@ -1,0 +1,6 @@
+Test Case ID,Description,Test Steps,Expected Result,Actual Result,Severity,Assigned To,Remarks
+TC001,Product Listing Test,Verify product listing in Sanity Studio.,Products listed with correct details.,Correct product listing.,Low,-,No issues.
+TC002,Chefs Data Test,Check chefs data in Sanity.,Chefs data should be accurate.,Data correct in Sanity.,Meduim,-,Verified.
+TC003,Responsiveness Test (Mobile),Check mobile responsiveness of homepage and product pages.,Layout should be mobile-friendly and elements aligned.,"Responsive design, no issues on mobile.",Medium,-,Mobile-friendly
+TC004,Product Update Test,Edit and check updates in Sanity.,Changes reflected in frontend.,Changes visible in frontend.,Medium,-,Updates successful.
+TC005,Frontend Integration Test,Verify Sanity data loads on frontend.,Data from Sanity should load correctly.,Data displayed correctly on frontend.,High,-,Full integration.
